@@ -5,7 +5,7 @@ This GIT repository has been created to manage the documents used in the annual 
 
 > I love neutrinos (ILN), is an educative program designed to develop STEM (Science, technology, engineering, and mathematics) projects.
 
-![ScreenShot](https://raw.github.com/jabrena/ILN/master/2014/ldd/BaseModel2/BaseModel2.png)
+![ScreenShot](https://raw.github.com/jabrena/ILN/master/2014/ldd/Cube1/Cube1.png)
 
 ## 2014
 
