@@ -30,3 +30,10 @@ http://www.firstlegoleague.org/
 https://www.googlesciencefair.com/
 
 http://www.moonbots.org/
+
+**References:**
+
+http://www.legolab.daimi.au.dk/
+
+http://www.doc.ic.ac.uk/~ajd/Robotics/index.html
+
